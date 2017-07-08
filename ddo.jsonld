@@ -1,0 +1,24 @@
+{
+  "@context": [
+    "https://schema.org/",
+    "https://w3id.org/security/v1"
+  ],
+  "id": "DID:BTCR:TBD#SOMEVALUE",
+  "type": [
+    "Credential",
+    "WebOfTrustCredential"
+  ],
+  "issuer": "DID:BTCR:TBD#SOMEOTHERVALUE",
+  "claim": {
+    "id": "DID:BTCR:TBD#SOMETHIRDVALUE",
+    "alternatename": "ChristopherA",
+    "url": "https://raw.githubusercontent.com/christophera/self/master/ddo.jsonld",
+    "publicKey": "02c490e19e936efab022bd9fc12833db082706473fd96cec14c4a8dac058a0dbee"
+  },
+  "signature": {
+    "type": "EcdsaKoblitzSignature2016",
+    "created": "2017-07-08T00:21:53Z",
+    "creator": "ecdsa-koblitz-pubkey:1P8BWgokGDiqPYc3kgDDgn5Vm9XD1YUjEe",
+    "signatureValue": "H/2e5KiopVH3glkoDf/yP/dwScEP0HPZioxNffvalkyUFYDX7OJ/4uKs6gPqjCISpR3DUe1PKTOVE6MSSTS8AeE="
+  }
+}
