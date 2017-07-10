@@ -3,22 +3,23 @@
     "https://schema.org/",
     "https://w3id.org/security/v1"
   ],
-  "id": "DID:BTCR:TBD#SOMEVALUE",
+  "id": "DID:BTCR:TX1XXYVXXXXFPMFU0",
   "type": [
     "Credential",
     "WebOfTrustCredential"
   ],
-  "issuer": "DID:BTCR:TBD#SOMEOTHERVALUE",
+  "issuer": "DID:BTCR:TX1XXYVXXXXFPMFU0",
   "claim": {
-    "id": "DID:BTCR:TBD#SOMETHIRDVALUE",
+    "id": "DID:BTCR:TX1XXYVXXXXFPMFU0",
     "alternatename": "ChristopherA",
     "url": "https://raw.githubusercontent.com/christophera/self/master/ddo.jsonld",
-    "publicKey": "02c490e19e936efab022bd9fc12833db082706473fd96cec14c4a8dac058a0dbee"
+    "control": "ecdsa-koblitz-pubkey:?????",
+    "owner": "ecdsa-koblitz-pubkey-hash:mvZ3MyLgsvYr87GGSbsPBWEDduLRptfzEU"
   },
   "signature": {
     "type": "EcdsaKoblitzSignature2016",
     "created": "2017-07-08T00:21:53Z",
-    "creator": "ecdsa-koblitz-pubkey:1P8BWgokGDiqPYc3kgDDgn5Vm9XD1YUjEe",
+    "creator": "ecdsa-koblitz-pubkey:?????",
     "signatureValue": "H/2e5KiopVH3glkoDf/yP/dwScEP0HPZioxNffvalkyUFYDX7OJ/4uKs6gPqjCISpR3DUe1PKTOVE6MSSTS8AeE="
   }
 }
