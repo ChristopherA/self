@@ -3,23 +3,29 @@
     "https://schema.org/",
     "https://w3id.org/security/v1"
   ],
-  "id": "DID:BTCR:TX1XXYVXXXXFPMFU0",
+  "id": "did:btcr:xyv2-xzyq-qqm5-tyke/0#christophera-self-signed-claim",
   "type": [
     "Credential",
-    "WebOfTrustCredential"
+    "Identity",
+    "Person"
   ],
-  "issuer": "DID:BTCR:TX1XXYVXXXXFPMFU0",
+  "issuer": "did:btcr:xyv2-xzyq-qqm5-tyke/0#did-transaction-key",
+  "issued": "2017-07-15",
+  "label": "christophera-self-signed-claim",
   "claim": {
-    "id": "DID:BTCR:TX1XXYVXXXXFPMFU0",
-    "alternatename": "ChristopherA",
-    "url": "https://raw.githubusercontent.com/christophera/self/master/ddo.jsonld",
-    "control": "ecdsa-koblitz-pubkey:?????",
-    "owner": "ecdsa-koblitz-pubkey-hash:mvZ3MyLgsvYr87GGSbsPBWEDduLRptfzEU"
+    "relationship": "me",
+    "alternate-name": "ChristopherA",
+    "sameAs": [
+      "https://raw.githubusercontent.com/ChristopherA/self/master/357405ED.asc",
+      "https://raw.githubusercontent.com/ChristopherA/self/master/FDA6C78E.asc",
+      "https://github.com/christophera",
+      "https://twitter.com/christophera"
+    ]
   },
   "signature": {
     "type": "EcdsaKoblitzSignature2016",
-    "created": "2017-07-08T00:21:53Z",
-    "creator": "ecdsa-koblitz-pubkey:?????",
-    "signatureValue": "H/2e5KiopVH3glkoDf/yP/dwScEP0HPZioxNffvalkyUFYDX7OJ/4uKs6gPqjCISpR3DUe1PKTOVE6MSSTS8AeE="
+    "created": "2017-07-16T00:48:44Z",
+    "creator": "ecdsa-koblitz-pubkey:02b97c30de767f084ce3080168ee293053ba33b235d7116a3263d29f1450936b71",
+    "signatureValue": "HyV/c/DFdAigxSAuqE9O6yRqUk5wpobUaj63ig3hZMZxKJ/l2lNduWFKsN6aR5twAFurD3pJx2ZgVpu/fRb/lLo="
   }
 }
