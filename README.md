@@ -24,26 +24,26 @@ My full bio is on [LinkedIn](https://www.linkedin.com/in/christophera).
 
 ## Contacting Me
 
-I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of the in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email 
+I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of the in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email
 
 My work email for Blockstream is best for Bitcoin and other blockchain related topics:
-​	<ChristopherA@blockstream.com> 
+​	<ChristopherA@blockstream.com>
 
 My personal professional email is best for my topics associated with my professional blog, academic books & papers, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
-​	<ChristopherA@LifeWithAlacrity.com> 
+​	<ChristopherA@LifeWithAlacrity.com>
 
 I am also owner/publisher of [RPG.net](http://www.rpg.net) and thus for my professional online and euro game design and non-professional game play topics please use:
-​	<ChristopherA@LifeWithAlacrity.com> 
+​	<ChristopherA@RPG.net> 
 
 I am amateur hand pan player, and the best email for me on this topic is:
 ​	<ChristopherA@SpiralRhapsody.com>
 
 My personal email is for friends, family, and local non-professional acquaintances:
-​	ChristopherA@gmail.com 
+​	ChristopherA@gmail.com
 
 ## Social Media
 
-I have been on Twitter as [@ChristopherA](https://twitter.com/ChristopherA) since 2007, and my [Facebook](https://facebook.com/ChristopherRayAllen) profile is public and you don't need to be my friend to view it. 
+I have been on Twitter as [@ChristopherA](https://twitter.com/ChristopherA) since 2007, and my [Facebook](https://facebook.com/ChristopherRayAllen) profile is public and you don't need to be my friend to view it.
 
 I do accept direct messages from people I follow, but it email is better.
 
@@ -57,7 +57,7 @@ Many of my more recent public collaborations (not only about code) are on [Githu
 
 I live in Lafayette, CA, in the east bay of the San Francisco bay area past Berkeley and Oakland. When I'm not travelling for various conferences and meetings, I BART into Blockstream's San Francisco (most reliably on Wednesdays) or drive down to Blockstream's Mountain View office (many Tuesdays), otherwise I typically do my intellectual work from my home office.
 
-Based on that typical schedule, I usually schedule my face-to-face meetings in SF (most Wednesdays) or Mountain View (many Tuesdays), and online meetings or calls on Mondays, Thursdays or Fridays. 
+Based on that typical schedule, I usually schedule my face-to-face meetings in SF (most Wednesdays) or Mountain View (many Tuesdays), and online meetings or calls on Mondays, Thursdays or Fridays.
 
 ## Suggestions & Constructive Criticism
 
