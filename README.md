@@ -33,7 +33,7 @@ My personal professional email is best for my topics associated with my professi
 ​	<ChristopherA@LifeWithAlacrity.com>
 
 I am also owner/publisher of [RPG.net](http://www.rpg.net) and thus for my professional online and euro game design and non-professional game play topics please use:
-​	<ChristopherA@RPG.net> 
+​	<ChristopherA@RPG.net>
 
 I am amateur hand pan player, and the best email for me on this topic is:
 ​	<ChristopherA@SpiralRhapsody.com>
@@ -53,9 +53,17 @@ Since 2003 I have been sharing about my professional life in my blog [Life With 
 
 Many of my more recent public collaborations (not only about code) are on [Github](https://github.com/ChristopherA). My goal over the next couple of years is to move many of my prior collaborations into Github under permissive sharing licenses.
 
+## Github Communities
+
+* I am founder and host of [#RebootingWebOfTrust](http://www.WebOfTrust.info), a decentralized digital identity community that also meets F2F twice a year. It uses extensively https://github.com/WebOfTrustInfo for documents collaboratively created by its members.
+
+* I am an active member of the W3C (World Wide Web Consortium), and am Blockstream representative to the W3C's AC (Advisory Committee). In particular, I am co-chair of the [W3C Credentials WG](https://w3c-ccg.github.io/), which uses https://github.com/w3c-ccg and am deeply involved in the [W3C Verifiable Claims WG](https://www.w3.org/2017/vc/WG/), which uses https://www.w3.org/TR/verifiable-claims-use-cases/ https://w3c.github.io/vc-data-model/.
+
+* I have a passion about collaborative & participatory organizations, and have tried to create a community on this topic at https://github.com/participatoryorgs — however, at this time I'm the only active contributor.
+
 ## Scheduling Meetings with Me
 
-I live in Lafayette, CA, in the east bay of the San Francisco bay area past Berkeley and Oakland. When I'm not travelling for various conferences and meetings, I BART into Blockstream's San Francisco (most reliably on Wednesdays) or drive down to Blockstream's Mountain View office (many Tuesdays), otherwise I typically do my intellectual work from my home office.
+I live in Lafayette, CA, in the east bay of the San Francisco bay area past Berkeley and Oakland. When I'm not traveling for various conferences and meetings, I BART into Blockstream's San Francisco (most reliably on Wednesdays) or drive down to Blockstream's Mountain View office (many Tuesdays), otherwise I typically do my intellectual work from my home office.
 
 Based on that typical schedule, I usually schedule my face-to-face meetings in SF (most Wednesdays) or Mountain View (many Tuesdays), and online meetings or calls on Mondays, Thursdays or Fridays.
 
