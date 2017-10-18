@@ -22,6 +22,12 @@ My Blockstream bio paragraph is:
 
 My full bio is on [LinkedIn](https://www.linkedin.com/in/christophera).
 
+## Social Media
+
+I have been on Twitter as [@ChristopherA](https://twitter.com/ChristopherA) since 2007, and my [Facebook](https://facebook.com/ChristopherRayAllen) profile is public and you don't need to be my friend to view it.
+
+I do accept direct messages from people I follow, but it email is better.
+
 ## Contacting Me
 
 I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of the in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email
@@ -40,12 +46,6 @@ I am amateur hand pan player, and the best email for me on this topic is:
 
 My personal email is for friends, family, and local non-professional acquaintances:
 ​	ChristopherA@gmail.com
-
-## Social Media
-
-I have been on Twitter as [@ChristopherA](https://twitter.com/ChristopherA) since 2007, and my [Facebook](https://facebook.com/ChristopherRayAllen) profile is public and you don't need to be my friend to view it.
-
-I do accept direct messages from people I follow, but it email is better.
 
 ## Recent Online Publications
 
