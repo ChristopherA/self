@@ -32,10 +32,7 @@ I do accept direct messages from people I follow, but it email is better.
 
 I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of the in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email
 
-My work email for Blockstream is best for Bitcoin and other blockchain related topics:
-​	<ChristopherA@blockstream.com>
-
-My personal professional email is best for my topics associated with my professional blog, academic books & papers, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
+My personal professional email is best for my topics associated with my professional blog, academic books & papers, Bitcoin & blockchain technology, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
 ​	<ChristopherA@LifeWithAlacrity.com>
 
 I am also owner/publisher of [RPG.net](http://www.rpg.net) and thus for my professional online and euro game design and non-professional game play topics please use:
