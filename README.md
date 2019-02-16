@@ -90,7 +90,7 @@ I was also co-author with Shannon on some of the first books on iOS Development,
 
 ## Scheduling Meetings with Me
 
-I live in Lafayette, CA, in the east bay of the San Francisco bay area past Berkeley and Oakland. When I'm not traveling for various conferences and meetings, I BART into San Francisco regularly (I try to avoid commute traffic so typically head to SF at 10am, and try to leave by 3pm before peak or at 8pm after peak). I occasionally drive down the San Jose or the Penisula for longer meetings, otherwise I typically do my intellectual work from my home office.
+I live in Lafayette, CA, in the east bay of the San Francisco bay area past Berkeley and Oakland. When I'm not traveling for various conferences and meetings, I BART into San Francisco regularly (I try to avoid commute traffic so typically head to SF at 10am, and try to leave by 3pm before peak or at 8pm after peak). I occasionally drive down the San Jose or the Peninsula for longer meetings, otherwise I typically do my intellectual work from my home office.
 
 Based on that typical schedule, I usually schedule my face-to-face meetings in Lafaytte (closest to me), Walnut Creek (nice co-working space there), or in downtown SF, with online meetings or calls focused on Tuesdays and Thursdays.
 
