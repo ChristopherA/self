@@ -8,7 +8,7 @@ Want to know what I'm up to? What I'm doing elsewhere?
 
 Do you have ideas, suggestions, or constructive criticism for me?
 
-Here is a good place you can communicate with me.
+Here is a good place where you can communicate with me.
 
 ## About me
 
@@ -22,11 +22,11 @@ My current short bio paragraph is:
 
 Until last year I was at Blockstream, and my short bio paragraph there was:
 
-> Christopher Allen is a veteran of the Crypto Wars with a wealth of knowledge about the history of internet cryptography, including both successes and paths not taken. That dates back to his founding of Consensus Development, where he co-authored the IETF TLS 1.0 standard and produced the first commercial SSL and TLS toolkits. After Consensus merged with elliptic-curve pioneer Certicom, Christopher worked on early smart contract technology as the company’s CTO. Though he detoured into creating internet communities, teaching technological leadership, and producing mobile apps, the lure of enabling trust drew Christopher back to the field. Recently, Christopher was VP of Developer Relations for the secure smartphone company Silent Circle. He has also taught at Blockchain University, advised multiple organizations on privacy and security, and produced a design workshop on the Web of Trust. Now at Blockstream, he is Principal Architect, working especially on blockchain standards, decentralized identity and new engines of trust. Christopher also plays the hand pan and enjoys eurogames and noir films.
+> Christopher Allen is a veteran of the Crypto Wars with a wealth of knowledge about the history of internet cryptography, including both successes and paths not taken. That dates back to his founding of Consensus Development, where he co-authored the IETF TLS 1.0 standard and produced the first commercial SSL and TLS toolkits. After Consensus merged with elliptic-curve pioneer Certicom, Christopher worked on early smart contract technology as the company’s CTO. Though he detoured into creating internet communities, teaching technological leadership, and producing mobile apps, the lure of enabling trust drew Christopher back to the field. Recently, Christopher was VP of Developer Relations for the secure smartphone company Silent Circle. He has also taught at Blockchain University, advised multiple organizations on privacy and security, and produced a design workshop on the Web of Trust. Now at Blockstream, he is Principal Architect, working especially on blockchain standards, decentralized identity and new engines of trust. Christopher also plays the handpan and enjoys eurogames and noir films.
 
 My full professional bio is on [LinkedIn](https://www.linkedin.com/in/christophera).
 
-I also am involved as a semi-professional hobbist in game design, in role-playing industry, and as a creative producer and author. My full bio when I wear that hat is:
+I also am involved as a semi-professional hobbyist in game design, in role-playing industry, and as a creative producer and author. My full bio when I wear that hat is:
 
 > I am fascinated by the art and craft of collaboration, and have its practice and the study of how and why collaboration works at the center of my professional career as an entrepreneur, a software architect, as well as a creator, producer & publisher in the game industry.
 >
@@ -42,9 +42,9 @@ I also am involved as a semi-professional hobbist in game design, in role-playin
 >
 > I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.lifewithalacrity.com/) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.weboftrust.info/) workshops imagine the future of collaboration on the internet.
 >
-> In the last few years I increasingly have been moving away from traditional forms of role-playing such as Call of Cthulhu or Runequest, to forms that are more story-centric and allow for more player control of the game. In these I attempt to share some of the lessons learned from my recent experiences in the intersection of role-playing, improve and collaboration.
+> In the last few years I increasingly have been moving away from traditional forms of role-playing such as Call of Cthulhu or Runequest, to forms that are more story-centric and allow for more player control of the game. In these I attempt to share some of the lessons learned from my recent experiences in the intersection of role-playing, improv, and collaboration.
 >
-> I am avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/).
+> I am an avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/).
 
 ## Social Media
 
@@ -54,49 +54,49 @@ I do accept direct messages from people I follow, but it email is better.
 
 ## Contacting Me
 
-I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of the in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email
+I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of them in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email.
 
-My personal professional email is best for my topics associated with my professional blog, academic books & papers, Bitcoin & blockchain technology, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
-​	<ChristopherA@LifeWithAlacrity.com>
+My personal professional email is best for topics associated with my professional blog, academic books & papers, Bitcoin & blockchain technology, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
+	<ChristopherA@LifeWithAlacrity.com>
 
 I am also owner/publisher of [RPG.net](http://www.rpg.net) and thus for my professional online and euro game design and non-professional game play topics please use:
-​	<ChristopherA@RPG.net>
+	<ChristopherA@RPG.net>
 
-I am amateur hand pan player, and the best email for me on this topic is:
-​	<ChristopherA@SpiralRhapsody.com>
+I am amateur handpan player, and the best email for me on this topic is:
+	<ChristopherA@SpiralRhapsody.com>
 
 My personal email is for friends, family, and local non-professional acquaintances:
-​	ChristopherA@gmail.com
+	ChristopherA@gmail.com
 
 ## Recent Online Publications
 
-Since 2003 I have been sharing about my professional life in my blog [Life With Alacrity](http://www.LifeWithAlacrity.com), where I discuss on a variety of topics including entrepreneurship, the social web, identity & privacy,  internet security and collaboration.
+Since 2003 I have been sharing about my professional life in my blog [Life With Alacrity](http://www.LifeWithAlacrity.com), where I discuss on a variety of topics including entrepreneurship, the social web, identity & privacy, internet security and collaboration.
 
-Many of my more recent public collaborations (not only about code) are on [Github](https://github.com/ChristopherA). My goal over the next couple of years is to move many of my prior collaborations into Github under permissive sharing licenses.
+Many of my more recent public collaborations (not only about code) are on [GitHub](https://github.com/ChristopherA). My goal over the next couple of years is to move many of my prior collaborations into GitHub under permissive sharing licenses.
 
 ## Recent Books
 
 I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
 
-I was also co-author with Shannon on some of the first books on iOS Development, which now are out-of-date. They were [“iPhone in Action: Introduction to Web and SDK Development”](https://www.manning.com/books/iphone-in-action), [“iPhone and iPad in Action”](https://www.manning.com/books/iphone-and-ipad-in-action), and [”iOS4  in Action“](https://www.manning.com/books/ios-4-in-action). We were not involved in the 2015 version of the book [“iOS 7 in Action”](https://www.manning.com/books/ios-7-in-action) though much of the book was derived from our earlier works. As we are now at iOS version 12 I can't currently recommend any of these editions.
+I was also co-author with Shannon on some of the first books on iOS Development, which now are out-of-date. They were [“iPhone in Action: Introduction to Web and SDK Development”](https://www.manning.com/books/iphone-in-action), [“iPhone and iPad in Action”](https://www.manning.com/books/iphone-and-ipad-in-action), and [”iOS4 in Action“](https://www.manning.com/books/ios-4-in-action). We were not involved in the 2015 version of the book [“iOS 7 in Action”](https://www.manning.com/books/ios-7-in-action) though much of the book was derived from our earlier works. As we are now at iOS version 12 I can't currently recommend any of these editions.
 
-## Github Communities
+## GitHub Communities
 
 * I am founder and host of [#RebootingWebOfTrust](http://www.WebOfTrust.info), a decentralized digital identity community that also meets F2F twice a year. It uses extensively https://github.com/WebOfTrustInfo for documents collaboratively created by its members.
 
 * I am an active member of the W3C (World Wide Web Consortium), and am Blockstream representative to the W3C's AC (Advisory Committee). In particular, I am co-chair of the [W3C Credentials WG](https://w3c-ccg.github.io/), which uses https://github.com/w3c-ccg and am deeply involved in the [W3C Verifiable Claims WG](https://www.w3.org/2017/vc/WG/), which uses https://www.w3.org/TR/verifiable-claims-use-cases/ https://w3c.github.io/vc-data-model/.
 
-* I have a passion about collaborative & participatory organizations, and have tried to create a community on this topic at https://github.com/participatoryorgs — however, at this time I'm the only active contributor.
+* I have a passion about collaborative & participatory organizations, and have tried to create a community on this topic at https://github.com/participatoryorgs — however, at this time I'm the only active contributor.
 
 ## Scheduling Meetings with Me
 
-I live in Lafayette, CA, in the east bay of the San Francisco bay area past Berkeley and Oakland. When I'm not traveling for various conferences and meetings, I BART into San Francisco regularly (I try to avoid commute traffic so typically head to SF at 10am, and try to leave by 3pm before peak or at 8pm after peak). I occasionally drive down the San Jose or the Peninsula for longer meetings, otherwise I typically do my intellectual work from my home office.
+I live in Lafayette, CA, in the East Bay of the San Francisco Bay Area past Berkeley and Oakland. When I'm not traveling for various conferences and meetings, I BART into San Francisco regularly (I try to avoid commute traffic so typically head to SF at 10am, and try to leave by 3pm before peak or at 8pm after peak). I occasionally drive down to San Jose or the Peninsula for longer meetings, otherwise I typically do my intellectual work from my home office.
 
-Based on that typical schedule, I usually schedule my face-to-face meetings in Lafaytte (closest to me), Walnut Creek (nice co-working space there), or in downtown SF, with online meetings or calls focused on Tuesdays and Thursdays.
+Based on that typical schedule, I usually schedule my face-to-face meetings in Lafayette (closest to me), Walnut Creek (nice co-working space there), or in downtown SF, with online meetings or calls focused on Tuesdays and Thursdays.
 
 ## Suggestions & Constructive Criticism
 
-Use [Issues](https://gl.blockstream.io/ChristopherA/self/issues) here in this repository.
+Use [Issues](https://github.com/ChristopherA/self/issues) here in this repository.
 
 ## My Public Keys
 
