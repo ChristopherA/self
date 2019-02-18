@@ -10,7 +10,7 @@ Do you have ideas, suggestions, or constructive criticism for me?
 
 Here is a good place where you can communicate with me.
 
-## About me
+## About me (Blockchain & Decentralized Identity)
 
 My name is Christopher Allen, and a short summary of my bio is:
 
@@ -26,6 +26,8 @@ Until last year I was at Blockstream, and my short bio paragraph there was:
 
 My full professional bio is on [LinkedIn](https://www.linkedin.com/in/christophera).
 
+## About me (Game Design)
+
 I also am involved as a semi-professional hobbyist in game design, in role-playing industry, and as a creative producer and author. My full bio when I wear that hat is:
 
 > I am fascinated by the art and craft of collaboration, and have its practice and the study of how and why collaboration works at the center of my professional career as an entrepreneur, a software architect, as well as a creator, producer & publisher in the game industry.
@@ -36,7 +38,7 @@ I also am involved as a semi-professional hobbyist in game design, in role-playi
 >
 > I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
 >
-> In the computer games industry, I’m the founder of [Skotos Tech](https://www.skotos.net/), an online game company where I was lead for the social Castle Marrach and Lovecraft Country online games, and produce Grendel’s Revenge.
+> In the computer games industry, I’m the founder of [Skotos Tech](https://www.skotos.net/), an online game company where I was lead for the social [Castle Marrach](http://www.skotos.net/games/marrach/) ([wikipedia](https://en.wikipedia.org/wiki/Castle_Marrach)) and [Lovecraft Country: Arkham by Night](http://www.topmudsites.com/forums/muddisplay.php?mudid=arkham) online games, and produced [Grendel’s Revenge](https://www.skotos.net/games/grendel/).
 >
 > With my long-time co-author Shannon Appelcline, I am also the creator & co-author of an upcoming graphic novel Touched, as well as producer of two previous comics associated with our online games: [Lovecraft Country: Return to Arkham](http://www.lovecraftcountry.com/comic/) & [Castle Marrach: Awakenings](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml).
 >
