@@ -123,4 +123,13 @@ My miniLock public key (an EdDSA key using the 25519 curve):
 
 [As published on [Twitter 1:47 PM - 20 Aug 2015](https://twitter.com/ChristopherA/status/634466769311105024)]
 
-The Minilock website has expired or has been pouched:  [ARCHIVE.ORG 2018-09-15 https://minilock.io/ ](https://web.archive.org/web/20180915100358/https://minilock.io/) as has the Minilock Chrome extension, but the GitHub source is still available [github:@kaepora](https://github.com/kaepora/miniLock) though hasn't been updated since 2015. There is a compatible command-line implementation [MikroLock](http://www.andre-simon.de/doku/mlock/en/mlock.php) with code at [gitlab@saalen](https://gitlab.com/saalen/mikrolock) as well as some useful utilities and visual overview of the  [MiniLock file format](https://45678.github.io/miniLock-file-format/2.html) at [github@45678](https://github.com/45678?tab=repositories).
+The minilock website has expired or has been pouched:  [ARCHIVE.ORG 2018-09-15 https://minilock.io/ ](https://web.archive.org/web/20180915100358/https://minilock.io/) as has the Minilock Chrome extension, but the GitHub source is still available [github:@kaepora](https://github.com/kaepora/miniLock) though hasn't been updated since 2015. There is a compatible command-line implementation [MikroLock](http://www.andre-simon.de/doku/mlock/en/mlock.php) with code at [gitlab@saalen](https://gitlab.com/saalen/mikrolock) as well as some useful utilities and visual overview of the  [MiniLock file format](https://45678.github.io/miniLock-file-format/2.html) at [github@45678](https://github.com/45678?tab=repositories).
+
+### Minisign
+
+My [Minisign](https://jedisct1.github.io/minisign/) public key is `RWStkgO/axPbYJCsbfTjhLbC2Pi4/7p+jX3If0tm27VcP4KIcLVJZ4Ec` and my self-signed attestation for this key is in my [GitHub](https://github.com/ChristopherA/self/blob/master/minisign.pub.minisig)  in a commit signed by my PGP key ([357405ED](./357405ED.asc)).
+
+[As published on [Twitter 11:20 AM · Nov 28, 2018](https://twitter.com/ChristopherA/status/1067860853897089025)]
+
+
+
