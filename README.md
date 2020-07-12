@@ -19,7 +19,7 @@ This the best place to learn how to best communicate with me, or propose a colla
 
 ## About me (Blockchain & Decentralized Identity)
 
-My name is Christopher Allen, and a short summary of my bio is:
+My name is Christopher Allen, and the shortest summary of my bio is:
 
 > Blockchain & Decentralized Identity Architect—Internet Cryptography Pioneer—Co-author TLS Security Standard—Collaborative Tools & Patterns
 
