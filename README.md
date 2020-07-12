@@ -17,6 +17,43 @@ Do you have ideas, suggestions, or constructive criticism for me?
 
 This the best place to learn how to best communicate with me, or propose a collaboration.
 
+## Suggestions, Constructive Criticism & Collaboration Proposals
+
+Use [Issues](https://github.com/ChristopherA/self/issues) here in this repository.
+
+## Contacting Me
+
+I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of them in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email.
+
+My personal professional email is best for topics associated with my professional blog, academic books & papers, Bitcoin & blockchain technology, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
+	<ChristopherA@LifeWithAlacrity.com>
+	
+I am Executive Producer at [Dyvers Hands Productions, LLC](https://www.DyversHands.com) so for all of game design and non-professional game play topics please use:
+        <ChristopherA@DyversHands.comt>
+
+Though I am the owner/publisher of [RPG.net](http://www.rpg.net), please direct any questions regarding the management of that online community to it's editor-in-chief via <ce@RPG.net>. If you feel it is important to CC me, use:
+	<ChristopherA@RPG.net>
+
+I am amateur handpan player, and the best email for me on this topic is:
+	<ChristopherA@SpiralRhapsody.com>
+
+My personal email is for friends, family, and local non-professional acquaintances:
+	<ChristopherA@gmail.com>
+	
+## Social Media
+
+I have been active on Twitter as [@ChristopherA](https://twitter.com/ChristopherA) since 2007, and my [Facebook](https://facebook.com/ChristopherRayAllen) profile is public and you don't need to be my friend to view it.
+
+Reading through my Twitter history is one of the best ways to get to know what I am currently thinking about. I don't post regularly on my blog [Life With Alacrity](https://www.LifeWithAlacrity.com), saving it for my longer-form work.
+
+I do accept direct messages on various social media and chat platforms from people I follow, but [email](mailto:ChristopherA@LifeWithAlacrity.com) is more reliable.
+
+## Scheduling Meetings with Me
+
+(During Covid-19): I largely work from my home in the East Bay of the San Francisco Bay Area, and I am carefully practicing safe social-distancing. I am in the Pacific Time Zone (PST in winter & PDT in summer). My schedule is typically biziest with conference calls and video calls in the AM hours until 11am PT with Europe, and again with Asia calls after 4pm PT. This means the best time to schedule a call for me is usually right after my lunch hour, starting around 1pm or 2pm PDT. Best way to be sure to schedule with me is discuss schedule via my email address or as a GitHub issue, followed by a calendar invite once we have confirmed. I prefer to use Signal for voice and Zoom for video.
+
+(Pre Covid-19): I live in Lafayette, CA, in the East Bay of the San Francisco Bay Area past Berkeley and Oakland. When I'm not traveling for various conferences and meetings, I BART into San Francisco regularly (I try to avoid commute traffic so typically head to SF at 10am, and try to leave by 3pm before peak or at 8pm after peak). I occasionally drive down to San Jose or the Peninsula for longer meetings, otherwise I typically do my intellectual work from my home office. Based on that typical schedule, I usually schedule my face-to-face meetings in Lafayette (closest to me), Walnut Creek (nice co-working space there), or in downtown SF, with my online meetings or calls focused on Tuesdays and Thursdays.
+
 ## About me (Blockchain & Decentralized Identity)
 
 My name is Christopher Allen, and the shortest summary of my bio is:
@@ -40,7 +77,6 @@ My full professional bio is on [LinkedIn](https://www.linkedin.com/in/christophe
 > I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/about) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book is available from [GamePlayWright](https://gameplaywright.net/books/meeples-together/) and at many book sites like [Amazon](https://www.amazon.com/Meeples-Together-Cooperative-Games-Work-ebook/dp/B07PBTKG3K) since March of 2019. We are working on a sequel on the topic of collaborative play for possible publication in 2021, with a third on collaborative work in 2023.
 
 > I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.lifewithalacrity.com/) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.weboftrust.info/) workshops imagine the future of collaboration on the internet.
-
 
 ## About me (Media & Game Design)
 
@@ -72,30 +108,6 @@ I am also involved as a semi-professional in entertainment media, tabletop board
 >
 > I am an avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/), and have some of my own story games and other creative works that I have Kickstarted myselve that are now available through [Dyvers Hands Productions](https://www.DyversHands.com) or on [itch.io](https://dyvershands.itch.io). 
 
-## Social Media
-
-I have been active on Twitter as [@ChristopherA](https://twitter.com/ChristopherA) since 2007, and my [Facebook](https://facebook.com/ChristopherRayAllen) profile is public and you don't need to be my friend to view it.
-
-I do accept direct messages on various social media and chat platforms from people I follow, but [email](mailto:ChristopherA@LifeWithAlacrity.com) is more reliable.
-
-## Contacting Me
-
-I am active & proficient on a variety of professional and creative topics. One thing that helps me remain productive is to compartmentalize the various aspects of them in ways so that I can concentrate on one topic at a time. Thus I request that you use the appropriate email.
-
-My personal professional email is best for topics associated with my professional blog, academic books & papers, Bitcoin & blockchain technology, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
-	<ChristopherA@LifeWithAlacrity.com>
-	
-I am Executive Producer at [Dyvers Hands Productions, LLC](https://www.DyversHands.com) so for all of game design and non-professional game play topics please use:
-        <ChristopherA@DyversHands.comt>
-
-Though I am the owner/publisher of [RPG.net](http://www.rpg.net), please direct any questions regarding the management of that online community to it's editor-in-chief via <ce@RPG.net>. If you feel it is important to CC me, use:
-	<ChristopherA@RPG.net>
-
-I am amateur handpan player, and the best email for me on this topic is:
-	<ChristopherA@SpiralRhapsody.com>
-
-My personal email is for friends, family, and local non-professional acquaintances:
-	<ChristopherA@gmail.com>
 
 ## Recent Online Publications
 
@@ -117,15 +129,6 @@ I was also co-author with Shannon on some of the first books on iOS Development,
 
 * I have a passion about collaborative & participatory organizations, and have tried to create a community on this topic at https://github.com/participatoryorgs — however, at this time I'm the only active contributor.
 
-## Scheduling Meetings with Me
-
-I live in Lafayette, CA, in the East Bay of the San Francisco Bay Area past Berkeley and Oakland. When I'm not traveling for various conferences and meetings, I BART into San Francisco regularly (I try to avoid commute traffic so typically head to SF at 10am, and try to leave by 3pm before peak or at 8pm after peak). I occasionally drive down to San Jose or the Peninsula for longer meetings, otherwise I typically do my intellectual work from my home office.
-
-Based on that typical schedule, I usually schedule my face-to-face meetings in Lafayette (closest to me), Walnut Creek (nice co-working space there), or in downtown SF, with online meetings or calls focused on Tuesdays and Thursdays.
-
-## Suggestions & Constructive Criticism
-
-Use [Issues](https://github.com/ChristopherA/self/issues) here in this repository.
 
 ## My Public Keys
 
