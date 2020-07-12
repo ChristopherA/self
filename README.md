@@ -28,7 +28,7 @@ I am active & proficient on a variety of professional and creative topics. One t
 My personal professional email is best for topics associated with my professional blog, academic books & papers, Bitcoin & blockchain technology, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
 	<ChristopherA@LifeWithAlacrity.com>
 	
-I am Executive Producer at [Dyvers Hands Productions, LLC](https://www.DyversHands.com) so for all of game design and non-professional game play topics please use:
+I am Executive Producer at [Dyvers Hands Productions, LLC](https://www.DyversHands.com) so for all of game design, creative media, and non-professional game play topics please use:
         <ChristopherA@DyversHands.comt>
 
 Though I am the owner/publisher of [RPG.net](http://www.rpg.net), please direct any questions regarding the management of that online community to it's editor-in-chief via <ce@RPG.net>. If you feel it is important to CC me, use:
