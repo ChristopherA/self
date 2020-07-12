@@ -1,5 +1,7 @@
 # ChristopherA/self
 
+<img class="avatar" alt="ChristopherA" src="https://github.com/ChristopherA.png?v=3&s=256" width="128" height="128" />
+
 <a href="https://github.com/ChristopherA"><img src="https://img.shields.io/github/followers/christophera.svg?label=@ChristopherA&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/ChristopherA"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a> <a href="https://github.com/BlockchainCommons">
 <img src="https://img.shields.io/badge/BlockchainCommons--Github?style=social&logo=github" alt="GitHub"></a> <a href="https://github.com/sponsors/BlockchainCommons"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 
