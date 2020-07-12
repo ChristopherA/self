@@ -31,27 +31,30 @@ Until last 2018 I was at Blockstream, and my short bio paragraph there was:
 
 My full professional bio is on [LinkedIn](https://www.linkedin.com/in/christophera).
 
+## About me (Collaborative Tools & Patterns)
+
+> I am fascinated by the art and craft of collaboration, and have its practice and the study of how and why collaboration works at the center of my professional career as an entrepreneur, a software architect, as well as a creator, producer & publisher.
+
+> I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.lifewithalacrity.com/) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.weboftrust.info/) workshops imagine the future of collaboration on the internet.
+
+> I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/about) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book is available from [GamePlayWright](https://gameplaywright.net/books/meeples-together/) and many book sites like [Amazon](https://www.amazon.com/Meeples-Together-Cooperative-Games-Work-ebook/dp/B07PBTKG3K) since March of 2019. We are working on a sequel on the topic of collaborative play for possible publication in 2021, with a third on collaborative work in 2023.
+
+
 ## About me (Game Design)
 
-I also am involved as a semi-professional hobbyist in game design, in role-playing industry, and as a creative producer and author. My full bio when I wear that hat is:
+I also am involved as a semi-professional hobbyist in game design, in role-playing industry, and as a creative publisher, producer and author. My full bio when I wear that hat is:
 
-> I am fascinated by the art and craft of collaboration, and have its practice and the study of how and why collaboration works at the center of my professional career as an entrepreneur, a software architect, as well as a creator, producer & publisher in the game industry.
+> In the Tabletop Role Playing Game industry I have been the the owner/publisher of the popular RPG community website [RPGnet](https://www.rpg.net/) since 2001. As a creative collaborator I most notably produced Chaosium’s [Beyond the Mountains of Madness](https://index.rpg.net/display-entry.phtml?mainid=3005) role-playing game, which won the [Origin’s Award](http://www.originsawards.net/) for “Best Roleplaying Adventure” in [1999](https://index.rpg.net/display-search.phtml?key=award&value=Origins+Awards&sort=nosort).
 >
-> In the paper RPG games industry I have been the the owner/publisher of the popular RPG community website [RPGnet](https://www.rpg.net/) since 2001. As a creative collaborator I most notably produced Chaosium’s [Beyond the Mountains of Madness](https://index.rpg.net/display-entry.phtml?mainid=3005) role-playing game, which won the [Origin’s Award](http://www.originsawards.net/) for “Best Roleplaying Adventure” in [1999](https://index.rpg.net/display-search.phtml?key=award&value=Origins+Awards&sort=nosort).
+> In the Table Top Board Game industry I resurrected the original 1987 edition of [Arkham Horror](https://www.rpg.net/reviews/archive/9/9215.phtml) and licensed it in 2005 to Fantasy Flight for its best-selling [2nd edition](https://www.rpg.net/reviews/archive/12/12132.phtml) of this board game series. My free "one-page" game [Monster Smash](https://github.com/ChristopherA/MonsterSmashGame2001), written in 1994 and revised in 2001 continues to be popular 25 years later at West Coast game conventions like [DruDraCon](https://twitter.com/ChristopherA/status/1096967603442970624).
 >
-> In the board games industry I resurrected the original 1987 edition of [Arkham Horror](https://www.rpg.net/reviews/archive/9/9215.phtml) and licensed it in 2005 to Fantasy Flight for its best-selling [2nd edition](https://www.rpg.net/reviews/archive/12/12132.phtml) of this board game series. My free "one-page" game [Monster Smash](https://github.com/ChristopherA/MonsterSmashGame2001), written in 1994 and revised in 2001 continues to be popular 25 years later at West Coast game conventions like [DruDraCon](https://twitter.com/ChristopherA/status/1096967603442970624).
->
-> I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
->
-> In the computer games industry, I’m the founder of [Skotos Tech](https://www.skotos.net/), an online game company where I was lead for the social [Castle Marrach](http://www.skotos.net/games/marrach/) ([wikipedia](https://en.wikipedia.org/wiki/Castle_Marrach)) and [Lovecraft Country: Arkham by Night](http://www.topmudsites.com/forums/muddisplay.php?mudid=arkham) online games, and produced [Grendel’s Revenge](https://www.skotos.net/games/grendel/).
+> In the Computer Games industry, I’m the founder of [Skotos Tech](https://www.skotos.net/), an online game company where I was lead for the social [Castle Marrach](http://www.skotos.net/games/marrach/) ([wikipedia](https://en.wikipedia.org/wiki/Castle_Marrach)) and [Lovecraft Country: Arkham by Night](http://www.topmudsites.com/forums/muddisplay.php?mudid=arkham) online games, and produced [Grendel’s Revenge](https://www.skotos.net/games/grendel/).
 >
 > With my long-time co-author Shannon Appelcline, I am also the creator & co-author of an upcoming graphic novel Touched, as well as producer of two previous comics associated with our online games: [Lovecraft Country: Return to Arkham](http://www.lovecraftcountry.com/comic/) & [Castle Marrach: Awakenings](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml).
 >
 > In the last few years I increasingly have been moving away from traditional forms of role-playing such as Call of Cthulhu or Runequest, to forms that are more story-centric and allow for more player control of the game. In these I attempt to share some of the lessons learned from my recent experiences in the intersection of role-playing, improv, and collaboration.
 >
-> I am an avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/), and have some of my own story games and other creative works that I have Kickstarted are are available through [Dyvers Hands Productions](https://www.DyversHands.com).
-
-> I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.lifewithalacrity.com/) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.weboftrust.info/) workshops imagine the future of collaboration on the internet.
+> I am an avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/), and have some of my own story games and other creative works that I have Kickstarted myselve that are now available through [Dyvers Hands Productions](https://www.DyversHands.com) or on [itch.io](https://dyvershands.itch.io). 
 
 ## Social Media
 
@@ -83,7 +86,7 @@ Many of my more recent public collaborations (not only about code) are on [GitHu
 
 ## Recent Books
 
-I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
+> I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/about) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book is available from [GamePlayWright](https://gameplaywright.net/books/meeples-together/) and many book sites like [Amazon](https://www.amazon.com/Meeples-Together-Cooperative-Games-Work-ebook/dp/B07PBTKG3K) since March of 2019. We are working on a sequel on the topic of collaborative play for possible publication in 2021, with a third on collaborative work in 2023.
 
 I was also co-author with Shannon on some of the first books on iOS Development, which now are out-of-date. They were [“iPhone in Action: Introduction to Web and SDK Development”](https://www.manning.com/books/iphone-in-action), [“iPhone and iPad in Action”](https://www.manning.com/books/iphone-and-ipad-in-action), and [”iOS4 in Action“](https://www.manning.com/books/ios-4-in-action). We were not involved in the 2015 version of the book [“iOS 7 in Action”](https://www.manning.com/books/ios-7-in-action) though much of the book was derived from our earlier works. As we are now at iOS version 12 I can't currently recommend any of these editions.
 
