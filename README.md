@@ -88,7 +88,7 @@ I am also involved as a semi-professional in entertainment media, tabletop board
 
 > To create stories today requires many and various kinds of talents, working together to create a greater whole, so it is an appropriate term to use for our shared collaborations and endeavors.
 
-> Dyvers Hands Productions is an independent producer of creative projects for many forms of media, ranging from print (comic books, novels), cinema (television, movies), interactive (TTRPGs, board & card games, computer games), social media (online communities, podcasts, webisodes), and more. As a team, we have a wide diversity of experience and creative talent, allowing us to tackle these many and varied media forms.
+> Dyvers Hands Productions is an independent cross-media producer of collaborative creative projects, ranging from print (comic books, graphic novels, shared worlds), cinema (movies, television, shorts ), interactive (computer games. TTRPGs, board & card games), and social media (online communities, podcasts, webisodes). As a team, we have a wide diversity of experience and creative talent, allowing us to tackle these many and varied media forms.
 
 > We are currently focused on developing cross-media brands that allow us to leverage audiences in one form of media to give us critical mass in another.
 
