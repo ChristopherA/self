@@ -1,5 +1,10 @@
 # ChristopherA/self
 
+<a href="https://github.com/ChristopherA"><img src="https://img.shields.io/github/followers/christophera.svg?label=@ChristopherA&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/ChristopherA"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a> <a href="https://github.com/BlockchainCommons">
+<img src="https://img.shields.io/badge/BlockchainCommons--Github?style=social&logo=github" alt="GitHub"></a> <a href="https://github.com/sponsors/BlockchainCommons"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+
+<a href="https://twitter.com/ChristopherA" rel="me"> <img src="https://img.shields.io/twitter/follow/ChristopherA?label=@ChristopherA&style=social" alt="Twitter @ChristopherA"></a> <a href="mailto:ChristopherA@LifeWithAlacrity.com"><img src="https://img.shields.io/badge/email--email?logo=mail.ru&style=social&link&logoColor=000000?link=mailto%3AChristopherA@LifeWithAlacrity.com?link=mailto%3AChristopherA@LifeWithAlacrity.com" alt="Email"></a> <a rel="pgpkey" href="https://github.com/christophera.gpg"><img src="https://img.shields.io/badge/PGP_key--PGP_key?logo=protonmail&style=social&logoColor=000000?link=https%3A%2F%2Fgithub.com%2Fchristophera.gpg?link=https%3A%2F%2Fgithub.com%2Fchristophera.gpg" alt="PGP/GPG Key"></a> 
+
 ## Intro
 
 Are you collaborating with me?
@@ -8,7 +13,7 @@ Want to know what I'm up to? What I'm doing elsewhere?
 
 Do you have ideas, suggestions, or constructive criticism for me?
 
-Here is a good place where you can communicate with me.
+This the best place to learn how to best communicate with me, or propose a collaboration.
 
 ## About me (Blockchain & Decentralized Identity)
 
@@ -18,9 +23,9 @@ My name is Christopher Allen, and a short summary of my bio is:
 
 My current short bio paragraph is:
 
-> Christopher Allen is an entrepreneur and technologist who specializes in collaboration, security, and trust. He worked with Netscape to develop SSL and co-authored the IETF TLS internet draft that is now at the heart of secure commerce on the World Wide Web. More recently, he was Principal Architect at Blockstream, where he led blockchain standards efforts. Christopher is today co-chair of the W3C Credentials CG working on standards for decentralized identity and founder of Blockchain Commons. He also founded and facilitates the semi-annual Rebooting the Web of Trust design workshops, which have generated over 40 collaborative white papers about the next generation of internet privacy, security, and identity software.
+> Christopher is a pioneer in internet cryptography and co-author of the TLS security standard, the cryptographic protocol that secures mat the heart of internet’s traffic today. He is an entrepreneur and technologist who specializes in collaboration, security, and trust. Christopher’s recent emphasis has been on engines of trust such as blockchain, smart contracts, and smart signatures, in particular decentralized self-sovereign identity. Christopher is founder of Blockchain Commons, former co-chair of the W3C Credentials Community Group incubating specifications for decentralized identity, incuding co-authorship of the new W3C Decentralized Identifier (DID) specification. Christopher was former CTO at Certicom, VP Developer Relations at Blackphone, and principal architect at Blockstream. He is currently principal architect & executive director of Blockchain Commons, founder of chairman of the board of the Rebooting the Web Of Trust design workshops, and an advisor to Avanti Bank. He is an invited expert to legislators and regulators in the US and international on digital human-rights.
 
-Until last year I was at Blockstream, and my short bio paragraph there was:
+Until last 2018 I was at Blockstream, and my short bio paragraph there was:
 
 > Christopher Allen is a veteran of the Crypto Wars with a wealth of knowledge about the history of internet cryptography, including both successes and paths not taken. That dates back to his founding of Consensus Development, where he co-authored the IETF TLS 1.0 standard and produced the first commercial SSL and TLS toolkits. After Consensus merged with elliptic-curve pioneer Certicom, Christopher worked on early smart contract technology as the company’s CTO. Though he detoured into creating internet communities, teaching technological leadership, and producing mobile apps, the lure of enabling trust drew Christopher back to the field. Recently, Christopher was VP of Developer Relations for the secure smartphone company Silent Circle. He has also taught at Blockchain University, advised multiple organizations on privacy and security, and produced a design workshop on the Web of Trust. Now at Blockstream, he is Principal Architect, working especially on blockchain standards, decentralized identity and new engines of trust. Christopher also plays the handpan and enjoys eurogames and noir films.
 
@@ -42,17 +47,17 @@ I also am involved as a semi-professional hobbyist in game design, in role-playi
 >
 > With my long-time co-author Shannon Appelcline, I am also the creator & co-author of an upcoming graphic novel Touched, as well as producer of two previous comics associated with our online games: [Lovecraft Country: Return to Arkham](http://www.lovecraftcountry.com/comic/) & [Castle Marrach: Awakenings](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml).
 >
-> I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.lifewithalacrity.com/) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.weboftrust.info/) workshops imagine the future of collaboration on the internet.
->
 > In the last few years I increasingly have been moving away from traditional forms of role-playing such as Call of Cthulhu or Runequest, to forms that are more story-centric and allow for more player control of the game. In these I attempt to share some of the lessons learned from my recent experiences in the intersection of role-playing, improv, and collaboration.
 >
-> I am an avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/).
+> I am an avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/), and have some of my own story games and other creative works that I have Kickstarted are are available through [Dyvers Hands Productions](https://www.DyversHands.com).
+
+> I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.lifewithalacrity.com/) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.weboftrust.info/) workshops imagine the future of collaboration on the internet.
 
 ## Social Media
 
 I have been active on Twitter as [@ChristopherA](https://twitter.com/ChristopherA) since 2007, and my [Facebook](https://facebook.com/ChristopherRayAllen) profile is public and you don't need to be my friend to view it.
 
-I do accept direct messages from people I follow, but it email is better.
+I do accept direct messages on various social media and chat platforms from people I follow, but [email](mailto:ChristopherA@LifeWithAlacrity.com) is more reliable.
 
 ## Contacting Me
 
