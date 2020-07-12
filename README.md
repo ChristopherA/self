@@ -37,24 +37,38 @@ My full professional bio is on [LinkedIn](https://www.linkedin.com/in/christophe
 
 > I am fascinated by the art and craft of collaboration, and have its practice and the study of how and why collaboration works at the center of my professional career as an entrepreneur, a software architect, as well as a creator, producer & publisher.
 
+> I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/about) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book is available from [GamePlayWright](https://gameplaywright.net/books/meeples-together/) and at many book sites like [Amazon](https://www.amazon.com/Meeples-Together-Cooperative-Games-Work-ebook/dp/B07PBTKG3K) since March of 2019. We are working on a sequel on the topic of collaborative play for possible publication in 2021, with a third on collaborative work in 2023.
+
 > I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.lifewithalacrity.com/) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.weboftrust.info/) workshops imagine the future of collaboration on the internet.
 
-> I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/about) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book is available from [GamePlayWright](https://gameplaywright.net/books/meeples-together/) and many book sites like [Amazon](https://www.amazon.com/Meeples-Together-Cooperative-Games-Work-ebook/dp/B07PBTKG3K) since March of 2019. We are working on a sequel on the topic of collaborative play for possible publication in 2021, with a third on collaborative work in 2023.
 
+## About me (Media & Game Design)
 
-## About me (Game Design)
+I am also involved as a semi-professional in entertainment media, tabletop board & role-playing game, and the computer game industries. I have served variously as a publisher, producer, collaborator, designer or author of a number of creative works. My full bio when I wear that hat is:
 
-I also am involved as a semi-professional hobbyist in game design, in role-playing industry, and as a creative publisher, producer and author. My full bio when I wear that hat is:
+> I am Executive Producer at [Dyvers Hands Productions, LLC](https://www.DyversHands.com), a Wyoming series corporation. In that role I steward a number of creative collaborative projects for myself, collegues and friends.
 
-> In the Tabletop Role Playing Game industry I have been the the owner/publisher of the popular RPG community website [RPGnet](https://www.rpg.net/) since 2001. As a creative collaborator I most notably produced Chaosium’s [Beyond the Mountains of Madness](https://index.rpg.net/display-entry.phtml?mainid=3005) role-playing game, which won the [Origin’s Award](http://www.originsawards.net/) for “Best Roleplaying Adventure” in [1999](https://index.rpg.net/display-search.phtml?key=award&value=Origins+Awards&sort=nosort).
+> [Dyvers Hands](http://en.wikipedia.org/wiki/Divers_hands) is an archaic phrase used to refer to a project that has been contributed to by many different people. Dyvers [pronounced di-vurs, dɪˈvɜrs] is a word of Latin origin (diversus) that is still commonly used in modern French language; it literally means “many and varied”. This usage of the word divers can be found in the Bible and other older texts, but it is not commonly used in modern English. The phrase is still used today to refer to the authorship of plays, essay collections, and short story collections, but in particular those related to the shared mythos created by H.P. Lovecraft and other authors since the 1920s.
+
+> To create stories today requires many and various kinds of talents, working together to create a greater whole, so it is an appropriate term to use for our shared collaborations and endeavors.
+
+> Dyvers Hands Productions is an independent producer of creative projects for many forms of media, ranging from print (comic books, novels), cinema (television, movies), interactive (TTRPGs, board & card games, computer games), social media (online communities, podcasts, webisodes), and more. As a team, we have a wide diversity of experience and creative talent, allowing us to tackle these many and varied media forms.
+
+> We are currently focused on developing cross-media brands that allow us to leverage audiences in one form of media to give us critical mass in another.
+
+> Some of the more notable creative projects that I have been a part of:
+
+> In the Tabletop Role Playing Game industry I have been the owner/publisher for almost two decades (since 2001) of the popular TTRPG online community [RPGnet](https://www.rpg.net/). As a creative collaborator I most notably produced Chaosium’s [Beyond the Mountains of Madness](https://index.rpg.net/display-entry.phtml?mainid=3005) role-playing game, which won the [Origin’s Award](http://www.originsawards.net/) for “Best Roleplaying Adventure” in [1999](https://index.rpg.net/display-search.phtml?key=award&value=Origins+Awards&sort=nosort).
 >
 > In the Table Top Board Game industry I resurrected the original 1987 edition of [Arkham Horror](https://www.rpg.net/reviews/archive/9/9215.phtml) and licensed it in 2005 to Fantasy Flight for its best-selling [2nd edition](https://www.rpg.net/reviews/archive/12/12132.phtml) of this board game series. My free "one-page" game [Monster Smash](https://github.com/ChristopherA/MonsterSmashGame2001), written in 1994 and revised in 2001 continues to be popular 25 years later at West Coast game conventions like [DruDraCon](https://twitter.com/ChristopherA/status/1096967603442970624).
->
-> In the Computer Games industry, I’m the founder of [Skotos Tech](https://www.skotos.net/), an online game company where I was lead for the social [Castle Marrach](http://www.skotos.net/games/marrach/) ([wikipedia](https://en.wikipedia.org/wiki/Castle_Marrach)) and [Lovecraft Country: Arkham by Night](http://www.topmudsites.com/forums/muddisplay.php?mudid=arkham) online games, and produced [Grendel’s Revenge](https://www.skotos.net/games/grendel/).
+
+> I am co-author with Shannon Appelcline of [“Meeples Together: How and Why Cooperative Board Games Work”,](https://www.meeplestogether.com/about) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven. We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book is available from [GamePlayWright](https://gameplaywright.net/books/meeples-together/) and at many book sites like [Amazon](https://www.amazon.com/Meeples-Together-Cooperative-Games-Work-ebook/dp/B07PBTKG3K) since March of 2019. We are working on a sequel on the topic of collaborative play for possible publication in 2021, with a third on collaborative work in 2023.
+
+> In the Computer Games industry, I was the founder of [Skotos Tech](https://www.skotos.net/), an online game company where I was lead for the onlne social RPG [Castle Marrach](http://www.skotos.net/games/marrach/) ([wikipedia](https://en.wikipedia.org/wiki/Castle_Marrach)) and [Lovecraft Country: Arkham by Night](http://www.topmudsites.com/forums/muddisplay.php?mudid=arkham) online games, and produced [Grendel’s Revenge](https://www.skotos.net/games/grendel/).
 >
 > With my long-time co-author Shannon Appelcline, I am also the creator & co-author of an upcoming graphic novel Touched, as well as producer of two previous comics associated with our online games: [Lovecraft Country: Return to Arkham](http://www.lovecraftcountry.com/comic/) & [Castle Marrach: Awakenings](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml).
 >
-> In the last few years I increasingly have been moving away from traditional forms of role-playing such as Call of Cthulhu or Runequest, to forms that are more story-centric and allow for more player control of the game. In these I attempt to share some of the lessons learned from my recent experiences in the intersection of role-playing, improv, and collaboration.
+> As a player, game master, and designer, the last few years I increasingly have been moving away from traditional forms of role-playing such as Call of Cthulhu or Runequest, to forms that are more story-centric and allow for more player control of the game. In these I attempt to share some of the lessons learned from my recent experiences in the intersection of role-playing, improv, and collaboration.
 >
 > I am an avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/), and have some of my own story games and other creative works that I have Kickstarted myselve that are now available through [Dyvers Hands Productions](https://www.DyversHands.com) or on [itch.io](https://dyvershands.itch.io). 
 
@@ -70,15 +84,18 @@ I am active & proficient on a variety of professional and creative topics. One t
 
 My personal professional email is best for topics associated with my professional blog, academic books & papers, Bitcoin & blockchain technology, and my advocacy on self-sovereign identity, human-rights privacy, etc.:
 	<ChristopherA@LifeWithAlacrity.com>
+	
+I am Executive Producer at [Dyvers Hands Productions, LLC](https://www.DyversHands.com) so for all of game design and non-professional game play topics please use:
+        <ChristopherA@DyversHands.comt>
 
-I am also owner/publisher of [RPG.net](http://www.rpg.net) and thus for my professional online and euro game design and non-professional game play topics please use:
+Though I am the owner/publisher of [RPG.net](http://www.rpg.net), please direct any questions regarding the management of that online community to it's editor-in-chief via <ce@RPG.net>. If you feel it is important to CC me, use:
 	<ChristopherA@RPG.net>
 
 I am amateur handpan player, and the best email for me on this topic is:
 	<ChristopherA@SpiralRhapsody.com>
 
 My personal email is for friends, family, and local non-professional acquaintances:
-	ChristopherA@gmail.com
+	<ChristopherA@gmail.com>
 
 ## Recent Online Publications
 
