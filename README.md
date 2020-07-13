@@ -11,13 +11,11 @@
 
 I am fascinated by the art and craft of collaboration, and have its practice and the study of how and why collaboration works at the center of my professional career as an entrepreneur, a software architect, as well as a creator, producer & publisher. I have been working on open web architectures since the early ’90s, with a focus on security, privacy, cryptography, and open standards. I collaborated with Netscape to develop SSL and co-authored the first IETF TLS internet-draft standard that is now at the heart of secure commerce and internet traffic on the web. My recent focus is on engines of trust, specifically blockchains, digital assets, smart contracts, smart signatures, and decentralized self-sovereign identity. All of my work centers on digital civil liberties and human rights, and they are offered as open source leveraging open development processes. I share about these topics on Twitter as [@ChristopherA](https://twitter.com/ChristopherA), sometimes address larger topics on my [Life With Alacrity](https://www.LifeWithAlacrity.com) blog.
 
-## Collabortion
+## Collaborating with me
 
-Are you collaborating with me?
+Want to know what I'm up to? What I'm doing elsewhere? 
 
-Want to know what I'm up to? What I'm doing elsewhere?
-
-Do you have ideas, suggestions, or constructive criticism for me?
+Do you have ideas, suggestions, or constructive criticism for me? Want to collaborating with me?
 
 This the best place to learn how to best communicate with me, or propose a collaboration.
 
